@@ -10,3 +10,6 @@
 [submodule "JKI14/ICPC.Workstation"]
 	path = JKI14/ICPC.Workstation
 	url = https://github.com/jki14/ICPC.Workstation.git
+[submodule "GooZy/Codes"]
+	path = GooZy/Codes
+	url = https://github.com/GooZy/Codes.git
