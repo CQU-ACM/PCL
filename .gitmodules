@@ -1,0 +1,12 @@
+[submodule "JKI14/ICPC.SCL.11"]
+	path = JKI14/ICPC.SCL.11
+	url = https://github.com/jki14/e.ICPC.SCL.11.git
+[submodule "JKI14/ICPC.SCL.12"]
+	path = JKI14/ICPC.SCL.12
+	url = https://github.com/jki14/e.ICPC.SCL.12.git
+[submodule "JKI14/ICPC.SCL.13"]
+	path = JKI14/ICPC.SCL.13
+	url = https://github.com/jki14/e.ICPC.SCL.13.git
+[submodule "JKI14/ICPC.Workstation"]
+	path = JKI14/ICPC.Workstation
+	url = https://github.com/jki14/ICPC.Workstation.git
